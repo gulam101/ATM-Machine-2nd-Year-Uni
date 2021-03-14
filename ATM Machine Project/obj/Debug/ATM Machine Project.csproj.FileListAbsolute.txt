@@ -1,0 +1,9 @@
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\bin\Debug\ATM Machine Project.exe.config
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\bin\Debug\ATM Machine Project.exe
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\bin\Debug\ATM Machine Project.pdb
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\obj\Debug\ATM Machine Project.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\obj\Debug\ATM Machine Project.exe
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\obj\Debug\ATM Machine Project.pdb
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\bin\Debug\ConsoleTables.dll
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\bin\Debug\ConsoleTables.pdb
+C:\Users\Gulam\source\repos\ATM Machine Project\ATM Machine Project\obj\Debug\ATM Machine Project.csproj.CopyComplete
